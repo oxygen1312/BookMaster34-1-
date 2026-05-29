@@ -1,4 +1,4 @@
-🔞 Только для меня и Отделянова В. В. 🔞
+
 
 (Загрузка пакетов)
 Install-Package Microsoft.EntityFrameworkCore -version 9.0.0 
